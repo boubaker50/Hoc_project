@@ -31,6 +31,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.gson.Gson;
+import com.phoeniciait.hocassistant.R;
 
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -57,7 +58,6 @@ import ai.api.android.AIConfiguration;
 import ai.api.model.AIError;
 import ai.api.model.AIResponse;
 import ai.api.model.Result;
-import ai.api.sample.R;
 import ai.api.ui.AIButton;
 import ai.boubaker.hoc.AIApplication;
 import ai.boubaker.hoc.Adapters.MessageListAdapter;

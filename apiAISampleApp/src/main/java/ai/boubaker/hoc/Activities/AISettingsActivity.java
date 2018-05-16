@@ -22,7 +22,8 @@ import android.view.ViewGroup;
 import android.widget.CheckBox;
 import android.widget.CompoundButton;
 
-import ai.api.sample.R;
+import com.phoeniciait.hocassistant.R;
+
 import ai.boubaker.hoc.AIApplication;
 import ai.boubaker.hoc.Utils.SettingsManager;
 

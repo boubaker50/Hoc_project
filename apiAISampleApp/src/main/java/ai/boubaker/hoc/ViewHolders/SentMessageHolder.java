@@ -5,7 +5,8 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import ai.api.sample.R;
+import com.phoeniciait.hocassistant.R;
+
 import ai.boubaker.hoc.Models.UserMessage;
 import ai.boubaker.hoc.Utils.Helpers;
 

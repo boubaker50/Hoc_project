@@ -9,11 +9,12 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.phoeniciait.hocassistant.R;
+
 import java.util.Calendar;
 import java.util.List;
 import java.util.Locale;
 
-import ai.api.sample.R;
 import ai.boubaker.hoc.Models.BaseMessage;
 import ai.boubaker.hoc.Models.UserMessage;
 import ai.boubaker.hoc.Utils.Helpers;
